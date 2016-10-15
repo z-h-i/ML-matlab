@@ -1,3 +1,3 @@
 # ML-matlab
 
-MATLAB implementations for Andrew Ng's Coursera-founding machine learning class. 
+MATLAB implementations for Coursera/Stanford/Andrew Ng's machine learning class. 
